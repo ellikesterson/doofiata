@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohfuchebo.kyletezak.com/sitemap.xml
